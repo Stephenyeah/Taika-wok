@@ -214,6 +214,8 @@ header .icons #menu-bars{
 
 .swiper-pagination-bullet-active{
     background:var(--green);
+    top: -180px;
+    position: relative;
 }
 
 .dishes .box-container{
